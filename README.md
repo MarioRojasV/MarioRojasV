@@ -77,18 +77,18 @@ Here are some ideas to get you started:
 
 ### Operating Systems:
 <p>
-<a href= https://github.com/tandpfun/skill-icons#readme > <img width ='32px' src ='https://raw.githubusercontent.com/tandpfun/skill-icons/refs/heads/main/icons/Python-Dark.svg'></a>
-<a href= https://github.com/tandpfun/skill-icons#readme > <img width ='32px' src ='https://raw.githubusercontent.com/tandpfun/skill-icons/refs/heads/main/icons/Java-Dark.svg'></a>
-<a href= https://github.com/tandpfun/skill-icons#readme > <img width ='32px' src ='https://raw.githubusercontent.com/tandpfun/skill-icons/refs/heads/main/icons/Kotlin-Dark.svg'></a>
+<a href= https://github.com/tandpfun/skill-icons#readme > <img width ='32px' src ='https://raw.githubusercontent.com/tandpfun/skill-icons/refs/heads/main/icons/Windows-Dark.svg'></a>
+<a href= https://github.com/tandpfun/skill-icons#readme > <img width ='32px' src ='https://raw.githubusercontent.com/tandpfun/skill-icons/refs/heads/main/icons/Linux-Dark.svg'></a>
+<a href= https://github.com/tandpfun/skill-icons#readme > <img width ='32px' src ='https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/android.png'></a>
 <a href= https://github.com/tandpfun/skill-icons#readme > <img width ='32px' src ='https://raw.githubusercontent.com/tandpfun/skill-icons/refs/heads/main/icons/CPP.svg'></a>
 <a href= https://github.com/tandpfun/skill-icons#readme > <img width ='32px' src ='https://raw.githubusercontent.com/tandpfun/skill-icons/refs/heads/main/icons/JavaScript.svg'></a>
-<a href= https://github.com/tandpfun/skill-icons#readme > <img width ='32px' src ='https://raw.githubusercontent.com/tandpfun/skill-icons/refs/heads/main/icons/HTML.svg'></a>
-<a href= https://github.com/tandpfun/skill-icons#readme > <img width ='32px' src ='https://raw.githubusercontent.com/tandpfun/skill-icons/refs/heads/main/icons/GoLang.svg'></a>
-<a href= https://github.com/tandpfun/skill-icons#readme > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/sqlite.svg'></a>
-<a href= https://github.com/tandpfun/skill-icons#readme > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/android.svg'></a>
-<a href= https://github.com/tandpfun/skill-icons#readme > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/unity.svg'></a>
-<a href= https://github.com/tandpfun/skill-icons#readme > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/csharp.svg'></a>
 </p>
+
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+
+![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)
+![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 
 <h2> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </h2>
 <a href = 'https://www.instagram.com/marioandres_rv'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/instagram.svg"/></a>
