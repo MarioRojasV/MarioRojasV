@@ -55,7 +55,7 @@ Here are some ideas to get you started:
 <a href= https://github.com/tandpfun/skill-icons#readme > <img width ='32px' src ='https://raw.githubusercontent.com/tandpfun/skill-icons/refs/heads/main/icons/Java-Dark.svg'></a>
 <a href= https://github.com/tandpfun/skill-icons#readme > <img width ='32px' src ='https://raw.githubusercontent.com/tandpfun/skill-icons/refs/heads/main/icons/Kotlin-Dark.svg'></a>
 <a href= https://github.com/tandpfun/skill-icons#readme > <img width ='32px' src ='https://raw.githubusercontent.com/tandpfun/skill-icons/refs/heads/main/icons/CPP.svg'></a>
-<a href= https://github.com/tandpfun/skill-icons#readme > <img width ='32px' src ='https://raw.githubusercontent.com/tandpfun/skill-icons/refs/heads/main/icons/JavaScript.svg'></a>
+<a href= https://github.com/tandpfun/skill-icons#readme > <img width ='32px' src ='https://raw.githubusercontent.com/tandpfun/skill-icons/refs/heads/main/icons/JavaScript.svg'></a></br>
 <a href= https://github.com/tandpfun/skill-icons#readme > <img width ='32px' src ='https://raw.githubusercontent.com/tandpfun/skill-icons/refs/heads/main/icons/HTML.svg'></a>
 <a href= https://github.com/tandpfun/skill-icons#readme > <img width ='32px' src ='https://raw.githubusercontent.com/tandpfun/skill-icons/refs/heads/main/icons/GoLang.svg'></a>
 <a href= https://github.com/tandpfun/skill-icons#readme > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/sqlite.svg'></a>
@@ -84,11 +84,19 @@ Here are some ideas to get you started:
 <a href= https://github.com/tandpfun/skill-icons#readme > <img width ='32px' src ='https://raw.githubusercontent.com/tandpfun/skill-icons/refs/heads/main/icons/JavaScript.svg'></a>
 </p>
 
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
+
+
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![AssemblyScript](https://img.shields.io/badge/assembly%20script-%23000000.svg?style=for-the-badge&logo=assemblyscript&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)
+![CSS](https://img.shields.io/badge/css-%23663399.svg?style=for-the-badge&logo=css&logoColor=white)</br>
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+
 
 <h2> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </h2>
 <a href = 'https://www.instagram.com/marioandres_rv'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/instagram.svg"/></a>
